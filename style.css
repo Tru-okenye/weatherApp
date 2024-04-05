@@ -97,9 +97,13 @@ margin-top: 2rem;
     margin-top: 2rem;
     display: none;
 }
-@media screen and(max-width: 600px) {
+@media screen and (max-width: 460px) {
  
     .search button{
        background: none;
+       
+    }
+    .search input{
+        width: 14rem;
     }
 }
