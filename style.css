@@ -97,3 +97,9 @@ margin-top: 2rem;
     margin-top: 2rem;
     display: none;
 }
+@media screen and(max-width: 600px) {
+ 
+    .search button{
+        width: 40px;
+    }
+}
